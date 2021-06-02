@@ -9,5 +9,6 @@ The SPFx extensions includes three types:
 
 In this repository,I had built the customized header and footer using Application Customizer.
 
-The look and feel would be as below
+The look and feel would be as below:point_down:
+
 ![](https://github.com/Poojitha-Chandra/header-footer-using-SPFxExtensions/blob/main/imgs/appextension.jpeg)
