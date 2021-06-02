@@ -6,3 +6,6 @@ The SPFx extensions includes three types:
 - Application Customizer
 - Field Customizer
 - Command sets
+
+In this repository,I had built the customized header and footer using Application Customizer.
+
